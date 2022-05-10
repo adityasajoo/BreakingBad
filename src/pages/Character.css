@@ -1,0 +1,36 @@
+.container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.imgs img{
+    height: 400px;
+    margin: 30px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+table{
+    width: 100%;
+    background-color: rgb(176, 209, 185);
+    font-size: large;
+    padding: 5px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.bold{
+    font-weight: bold;
+    text-align: right;
+    
+}
+.detail{
+    text-align: left;
+
+    /* justify-content: left; */
+}

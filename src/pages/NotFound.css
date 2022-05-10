@@ -1,0 +1,11 @@
+.notfoundContainer{
+    width: 100vw;
+    height: 92vh;
+    max-width:100%;  /* added */
+    max-height:100%;  /* added */
+    background-image: url('../NotFound.jpeg');
+    background-size:     cover;                  
+    background-repeat:   no-repeat;
+    background-position: center center;   
+    overflow-x: hidden;
+}

@@ -1,6 +1,6 @@
 # Breaking Bad Mania
 
-### Demo applicaiton can be found [here] [https://breaking-bad-tau.vercel.app/]
+### Demo applicaiton can be found here [https://breaking-bad-tau.vercel.app/]
 
 ### To Run the app
 1. Clone the repository.
